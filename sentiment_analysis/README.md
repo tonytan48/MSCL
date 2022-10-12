@@ -6,7 +6,8 @@ requirements:
 pytorch==1.7.1
 transformers==3.3.1
 
-The multi-domain Amazon review dataset can be downloaded at: https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+The multi-domain Amazon review dataset can be downloaded at: https://www.cs.jhu.edu/~mdredze/datasets/sentiment/.
+
 This dataset shall be put under '.data/benchmark/amazon/'
 
 To reproduce the experiment results of SCL+M, simply run the following bash file:
