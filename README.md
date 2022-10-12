@@ -1,5 +1,7 @@
-# MSCL Pytorch Implementation of Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning - COLING 2022
+# MSCL
+Pytorch Implementation of Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning - COLING 2022
 
+```bibtex
 @inproceedings{tan-etal-2022-domain,
     title = "Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning",
     author = "Tan, Qingyu  and
